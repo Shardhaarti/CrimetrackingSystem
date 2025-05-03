@@ -47,6 +47,7 @@ CrimeTrackingSystem/
 
 Navigate into the project:
      cd CrimetrackingSystem
+     there are database folder ,utils and gui folder , create the folders and the given classes
 Run the application:
     python main.py
 ![Screenshot 2025-05-03 211550](https://github.com/user-attachments/assets/4a3fa17f-49b7-4b5c-b0a6-fa9cedb686dd)
